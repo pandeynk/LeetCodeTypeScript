@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCodeTypeScript.iml" filepath="$PROJECT_DIR$/.idea/LeetCodeTypeScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCodeTypescript.iml" filepath="$PROJECT_DIR$/.idea/LeetCodeTypescript.iml" />
     </modules>
   </component>
 </project>
